@@ -10,7 +10,7 @@ a Frontend Developer based in ***Amsterdam***. With a background in Computer Eng
 🤝contact me via:[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sanaz-zarei)
 
 
-##skills
+## skills
 
 
 [![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
