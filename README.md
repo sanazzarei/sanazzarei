@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Sanaz Zarei!
 
-<!--
-
 a Frontend Developer based in ***Amsterdam***. With a background in Computer Engineering and a degree from the University of Mazandaran, I bring a solid foundation in software development coupled with a passion for creating immersive digital experiences.
 
 🚀 Previously, I completed the rigorous Web Development Trainee program at HackYourFuture, which was an enriching experience where I delved into a multitude of new technologies and best practices in full-stack web development. During this time, I contributed to the design and development of a full-stack platform, gaining hands-on experience and valuable insights into collaborative teamwork and project execution.
@@ -32,5 +30,3 @@ a Frontend Developer based in ***Amsterdam***. With a background in Computer Eng
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sanazzarei=anuraghazra&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
--->
