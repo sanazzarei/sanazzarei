@@ -32,6 +32,7 @@ a Frontend Developer based in ***Amsterdam***. With a background in Computer Eng
 [![Computer Networks](https://img.icons8.com/ios/50/000000/network.png)](https://en.wikipedia.org/wiki/Computer_network)
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://www.cplusplus.com/)
 
+# My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanazzarei&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
