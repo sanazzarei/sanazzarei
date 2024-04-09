@@ -21,7 +21,6 @@ a Frontend Developer based in ***Amsterdam***. With a background in Computer Eng
 [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.w3schools.com/sql/)
 [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 [![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
-[![Cloudinary](https://img.icons8.com/color/48/000000/cloudinary.png)](https://cloudinary.com/)
 [![Algorithms and Data Structures](https://img.icons8.com/ios/50/000000/system-task.png)](https://en.wikipedia.org/wiki/Data_structure)
 [![Computer Networks](https://img.icons8.com/ios/50/000000/network.png)](https://en.wikipedia.org/wiki/Computer_network)
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://www.cplusplus.com/)
