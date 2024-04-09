@@ -31,6 +31,6 @@ a Frontend Developer based in ***Amsterdam***. With a background in Computer Eng
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://www.cplusplus.com/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sanazzarei=anuraghazra&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanazzarei&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
