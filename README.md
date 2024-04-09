@@ -5,8 +5,11 @@ a Frontend Developer based in ***Amsterdam***. With a background in Computer Eng
 🚀 Previously, I completed the rigorous Web Development Trainee program at HackYourFuture, which was an enriching experience where I delved into a multitude of new technologies and best practices in full-stack web development. During this time, I contributed to the design and development of a full-stack platform, gaining hands-on experience and valuable insights into collaborative teamwork and project execution.
 
 🧠 Currently learning TypeScript for enhanced projects.
+
 🤝 Eager to collaborate on exciting new projects.
+
 🐾 Besides coding, I adore spending time with my cats.
+
 🤝contact me via:[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sanaz-zarei)
 
 
