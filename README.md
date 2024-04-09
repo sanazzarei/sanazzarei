@@ -10,7 +10,8 @@ a Frontend Developer based in ***Amsterdam***. With a background in Computer Eng
 
 🐾 Besides coding, I adore spending time with my cats.
 
-🤝contact me via:[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sanaz-zarei)
+🤝contact me via:
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sanaz-zarei)
 
 
 ## skills
